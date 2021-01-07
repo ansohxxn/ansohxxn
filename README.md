@@ -6,7 +6,7 @@
 
 ## 🛸 About me
 
-<img src = "https://img.shields.io/badge/MY%20BLOG-%23121011.svg?&style=flat&logo=github&logoColor=white&link=https://ansohxxn.github.io/" style="height : auto; margin-right : 2px;"/> <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCh2PUxXthHJtfnh03z4pV-Q"/>
+<img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black&link=https://ansohxxn.github.io/" style="height : auto; margin-right : 2px;"/> <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCh2PUxXthHJtfnh03z4pV-Q"/>
 
 안녕하세요! 
 
