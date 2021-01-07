@@ -6,13 +6,11 @@
 
 ## 🛸 About me
 
+<img src = "https://img.shields.io/badge/MY%20BLOG-%23121011.svg?&style=flat&logo=github&logoColor=white&link=https://ansohxxn.github.io/"/> <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCh2PUxXthHJtfnh03z4pV-Q"/>
+
 안녕하세요! 
 
 저는 게임 프로그래머가 되기 위해 🏃‍♀️달리고 있는 중이에요. 제 깃허브에 방문해주셔서 감사합니다.🥰
-
-<br>
-
-<img src = "https://img.shields.io/badge/MY%20BLOG-%23121011.svg?&style=flat&logo=github&logoColor=white&link=https://ansohxxn.github.io/"/> <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCh2PUxXthHJtfnh03z4pV-Q"/>
 
 <br>
 
