@@ -17,7 +17,7 @@
 
 저는 게임 프로그래머가 되기 위해 열심히 🏃‍♀️달리고 있는 중이에요. 제 깃허브에 방문해주셔서 감사합니다.🥰
 
-블로그 : <ansohxxn.github.io>
+블로그 : <https://ansohxxn.github.io>
 
 ## 🚀 Stack
 
