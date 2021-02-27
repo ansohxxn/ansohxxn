@@ -4,6 +4,8 @@
 
 ![image](https://camo.githubusercontent.com/fcdf57ef719540af341e4497e5bba18773723bca6d94ae235fe8ab776e645d8e/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6c4a66537a55656631306d377073735766382f67697068792e676966)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛸 About me
 
 <!--
