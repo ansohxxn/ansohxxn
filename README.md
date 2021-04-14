@@ -2,7 +2,7 @@
 <!--방문자 수, 깃허브 팔로워 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansohxxn&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 
-![image](https://camo.githubusercontent.com/fcdf57ef719540af341e4497e5bba18773723bca6d94ae235fe8ab776e645d8e/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6c4a66537a55656631306d377073735766382f67697068792e676966)
+![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn)](https://github.com/anuraghazra/github-readme-stats)
 
