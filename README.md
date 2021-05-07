@@ -19,12 +19,13 @@
 
 저는 게임 프로그래머가 되기 위해 열심히 🏃‍♀️달리고 있는 중이에요. 제 깃허브에 방문해주셔서 감사합니다.🥰
 
-## 📌 Contact
+---
 
 > 저는 공부한 것들을 모두 블로그에 기록하고 있습니다. 놀러와주세요 \~\.\~
 
 - 블로그 : <https://ansohxxn.github.io>
 - 이메일 : <bboddak@gmail.com>
+- 노션 : <https://www.notion.so/ansohxxn/87f5b9e67c904e4e88c9c38b39d605e0>
 
 ## 📌 잘 하고 싶어요!
 
