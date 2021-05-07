@@ -25,7 +25,7 @@
 
 - 블로그 : <https://ansohxxn.github.io>
 - 이메일 : <bboddak@gmail.com>
-- 노션 : <https://www.notion.so/ansohxxn/87f5b9e67c904e4e88c9c38b39d605e0>
+- 노션 : <https://www.notion.so/ansohxxn/87f5b9e67c904e4e88c9c38b39d605e0> 
 
 ## 📌 잘 하고 싶어요!
 
