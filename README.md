@@ -4,7 +4,7 @@
 
 ![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
 
 ## 📌 About me
 
