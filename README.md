@@ -15,7 +15,7 @@
 </a>
 -->
 
-- 유니티 게임 개발자
+- 현직 게임 개발자
 - 블로그 : <https://ansohxxn.github.io>
 - 이메일 : <bboddak@gmail.com>
 
