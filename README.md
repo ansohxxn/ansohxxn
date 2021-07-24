@@ -15,6 +15,7 @@
 
 - 현직 게임 개발자
 - 6 년 차 냥집사 
+- 코딩💻 게임🎮 책📔 영화🎬 요가🧘‍ 클래식🎼 비거니즘🌳
 - 블로그 : <https://ansohxxn.github.io>
 - 이메일 : <bboddak@gmail.com>
 
