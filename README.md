@@ -14,7 +14,7 @@
 -->
 
 - 게임 개발자
-- 블로그 : <https://ansohxxn.github.io>
+- 블로그 : <https://ansohxxn.github.io> ✨
 - 이메일 : <bboddak@gmail.com>
 
 ## 🌙 공부 중이에요 😉
