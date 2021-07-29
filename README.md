@@ -13,7 +13,7 @@
 </a>
 -->
 
-- 게임 개발자 
+- 수습 기간 뽀개는게 목표인 게임 개발자 
 - 블로그 : <https://ansohxxn.github.io> ✨
 - 이메일 : <bboddak@gmail.com>
 
